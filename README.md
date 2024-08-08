@@ -1,6 +1,6 @@
 # Revenue Insights
  
-## Hospitality Domain - [Power BI | Excle]
+## Hospitality Domain - [Power BI | Excel]
 
 AtliQ Grand noticed a loss in their market share and revenu over a few months. To understand the cause of this loss, they need a way to analyze this.
 
